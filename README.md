@@ -4,6 +4,7 @@ Collection of tools I use on my Mac. Pushed this here to de-clutter my bookmarks
 ## Productivity
 - [Sublime Text](https://www.sublimetext.com): Great text editor
 - [Forklift](https://binarynights.com): Powerful file manager with FTP etc functionality
+- [TeamViewer](https://www.teamviewer.com/en/): Remote control for my real Windows machines
 
 ## System
 - [Alfred](https://www.alfredapp.com): Super powerful Spotlight replacement
