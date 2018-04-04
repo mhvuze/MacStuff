@@ -13,6 +13,7 @@ Collection of tools I use on my Mac. Pushed this here to de-clutter my bookmarks
 - [cdto](https://github.com/jbtule/cdto): Quickly open a terminal session in the current directory
 - [iStats Menus](https://bjango.com/mac/istatmenus/): System monitor, particularly useful for fine-tuning Hackintosh fan config etc
 - [Keka](http://www.kekaosx.com/en/): Free and subtle archive tool
+- [Paste](https://pasteapp.me): Clipboard manager and snippet organizer
 
 ## Internet
 - [KeePassX](https://www.keepassx.org): Password manager I used back on Windows
