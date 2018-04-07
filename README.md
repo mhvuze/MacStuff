@@ -2,12 +2,14 @@
 Collection of tools I use on my Mac. Pushed this here to de-clutter my bookmarks.
 
 ## Productivity
-- [Sublime Text](https://www.sublimetext.com): Great text editor
+- FineReader OCR Pro (MAS): OCR for scanned documents and books
 - [Forklift](https://binarynights.com): Powerful file manager with FTP etc functionality
+- Pixelmator Pro (MAS): Beautiful macOS-esque PhotoShop replacement
+- [Sublime Text](https://www.sublimetext.com): Great text editor
 - [TeamViewer](https://www.teamviewer.com/en/): Remote control for my real Windows machines
 
 ## System
-- [Alfred](https://www.alfredapp.com): Super powerful Spotlight replacement
+- [Alfred](https://www.alfredapp.com): Spotlight replacement with a bunch of power user features
 - Amphetamine (MAS): Keep the Mac from sleeping for a certain amount of time
 - [BetterTouchTool](https://www.boastr.net): Custom trackpad gestures, window snapping etc
 - [cdto](https://github.com/jbtule/cdto): Quickly open a terminal session in the current directory
