@@ -5,6 +5,7 @@ Collection of tools I use on my Mac. Pushed this here to de-clutter my bookmarks
 - FineReader OCR Pro (MAS): OCR for scanned documents and books
 - [Forklift](https://binarynights.com): Powerful file manager with FTP etc functionality
 - Pixelmator Pro (MAS): Beautiful macOS-esque PhotoShop replacement
+- RAW Power (MAS): Lightweight RAW photo editor
 - [Sublime Text](https://www.sublimetext.com): Great text editor
 - [TeamViewer](https://www.teamviewer.com/en/): Remote control for my real Windows machines
 
