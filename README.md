@@ -8,6 +8,7 @@ Collection of tools I use on my Mac. Pushed this here to de-clutter my bookmarks
 - RAW Power (MAS): Lightweight RAW photo editor leveraging Apple's RAW engine, also features a Photos.app extension
 - [Sublime Text](https://www.sublimetext.com): Great text editor
 - [TeamViewer](https://www.teamviewer.com/en/): Remote control for my real Windows machines
+- Things 3 (MAS): Task manager
 
 ## System
 - [Alfred](https://www.alfredapp.com): Spotlight replacement with a bunch of power user features
@@ -17,6 +18,7 @@ Collection of tools I use on my Mac. Pushed this here to de-clutter my bookmarks
 - [iStats Menus](https://bjango.com/mac/istatmenus/): System monitor, particularly useful for fine-tuning Hackintosh fan config etc
 - [Keka](http://www.kekaosx.com/en/): Free and subtle archive tool
 - [Paste](https://pasteapp.me): Clipboard manager and snippet organizer
+- [MenuMeters](https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/): Free system monitor for CPU/RAM/Network
 
 ## Internet
 - [KeePassX](https://www.keepassx.org): Password manager I used back on Windows
