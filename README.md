@@ -13,7 +13,7 @@ Collection of tools I use on my Mac. Pushed this here to de-clutter my bookmarks
 - Amphetamine (MAS): Keep the Mac from sleeping for a certain amount of time
 - [BetterTouchTool](https://www.boastr.net): Custom trackpad gestures, window snapping etc
 - [BetterZip](https://betterzip.com): Archive utility
-- [cdto](https://github.com/jbtule/cdto): Quickly open a terminal session in the current directory
+- [Go2Shell](https://zipzapmac.com/Go2Shell): Quickly open a terminal session in the current directory
 - [iStats Menus](https://bjango.com/mac/istatmenus/): System monitor, particularly useful for fine-tuning fan config etc
 - [MenuMeters](https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/): Free system monitor for CPU/RAM/Network
 
