@@ -26,4 +26,5 @@ Collection of tools I use on my Mac. Pushed this here to de-clutter my bookmarks
 
 ## Misc
 - Deliveries (MAS): Cross-platform parcel tracking
+- [IINA](https://iina.io): Beautifully sleek alternative to VLC
 - [Rocket](http://matthewpalmer.net/rocket/): Emoji/GIF shortcut utility
